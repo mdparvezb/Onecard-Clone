@@ -347,3 +347,261 @@ a {
   justify-content: center;
   align-items: center;
 }
+
+/* Section 5 Styling */
+.section5 {
+  width: 100%;
+  height: 558px;
+  padding: 48px 0 50px 0;
+}
+
+.section5-container {
+  margin: 0 101.5px;
+  padding: 0 15px;
+}
+
+.section5-content {
+  margin: 0 15px;
+  display: flex;
+  align-items: center;
+}
+
+.sectoin5-right-box {
+  width: 540px;
+  padding: 0 15px;
+}
+
+.sectoin5-left-box {
+  width: 540px;
+  padding: 0 15px;
+}
+
+.section5-right-content {
+  display: flex;
+  width: 100%;
+  max-width: 100%;
+  flex-direction: column;
+  justify-content: flex-end;
+  text-align: end;
+}
+
+.section5-right-heading {
+  line-height: 1.9;
+  font-size: 3.7rem;
+  font-weight: 700;
+  color: #000;
+  text-align: right;
+}
+
+.section5-right-heading span {
+  text-align: right;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  height: 81px;
+}
+
+.section5-right-text {
+  display: block;
+  font-size: 1.6rem;
+  font-weight: 400;
+  color: #696969;
+  font-style: normal;
+}
+
+/* Section 6 styling */
+
+.section6 {
+  width: 100%;
+  height: 500px;
+  padding: 50px 0 50px 0;
+  background-color: #f2f2f2;
+}
+
+.section6-container {
+  padding: 0 15px;
+  margin: 0 101.5px;
+}
+
+.section6-content-box {
+  margin: 0 15px;
+  display: flex;
+}
+
+.section6-left-box {
+  width: 540px;
+  padding: 0 15px;
+}
+
+.section6-left-heading {
+  display: block;
+  font-size: 4rem;
+  font-weight: 500;
+  line-height: 1.4;
+  text-align: left;
+  color: #000;
+}
+
+.section6-left-text {
+  font-size: 1.6rem;
+  font-weight: 400;
+  display: block;
+  text-align: left;
+  color: #696969;
+}
+
+.section6-right-box {
+  width: 540px;
+  padding: 0 15px;
+  display: flex;
+  align-items: center;
+}
+
+.section6-left-heading {
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 1.19;
+  text-align: left;
+}
+
+.section6-left-heading span {
+  display: block;
+}
+
+.section6-right-text {
+  display: block;
+  font-size: 1.6rem;
+  font-weight: 400;
+  color: #696969;
+  font-style: normal;
+}
+
+/* Section 7 Styling */
+
+.section7 {
+  width: 100%;
+  height: 558px;
+  padding: 48px 0 50px 0;
+}
+
+.section7-container {
+  margin: 0 101.5px;
+  padding: 0 15px;
+}
+
+.section7-content {
+  margin: 0 15px;
+  display: flex;
+  align-items: center;
+}
+
+.sectoin7-right-box {
+  width: 540px;
+  padding: 0 15px;
+}
+
+.sectoin7-left-box {
+  width: 540px;
+  padding: 0 15px;
+}
+
+.section7-right-content {
+  display: flex;
+  width: 100%;
+  max-width: 100%;
+  flex-direction: column;
+  justify-content: flex-end;
+  text-align: end;
+}
+
+.section7-right-heading {
+  line-height: 1.9;
+  font-size: 3.7rem;
+  font-weight: 700;
+  color: #000;
+  text-align: right;
+}
+
+.section7-right-heading span {
+  text-align: right;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  height: 81px;
+}
+
+.section7-right-text {
+  display: block;
+  font-size: 1.6rem;
+  font-weight: 400;
+  color: #696969;
+  font-style: normal;
+}
+
+/* Section 8 styling */
+
+.section8 {
+  width: 100%;
+  height: 608px;
+  padding: 48px 0 50px 0;
+  background-color: #f2f2f2;
+}
+
+.section8-container {
+  padding: 0 15px;
+  margin: 0 101.5px;
+}
+
+.section8-content-box {
+  margin: 0 15px;
+  display: flex;
+}
+
+.section8-left-box {
+  width: 540px;
+  padding: 0 15px;
+}
+
+.section8-left-heading {
+  display: block;
+  font-size: 4rem;
+  font-weight: 500;
+  line-height: 1.4;
+  text-align: left;
+  color: #000;
+}
+
+.section8-left-text {
+  font-size: 1.6rem;
+  font-weight: 400;
+  display: block;
+  text-align: left;
+  color: #696969;
+  padding-bottom: 16px;
+}
+
+.section8-right-box {
+  width: 540px;
+  padding: 0 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.section8-learn-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: linear-gradient(to bottom, #217ee6, #2498e3);
+  width: 143px;
+  height: 43px;
+  padding: 7px 5px;
+  margin: 8px 0 24px;
+  color: #fff;
+  border-radius: 10px;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 600;
+  outline: none;
+  text-decoration: none;
+}
